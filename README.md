@@ -15,7 +15,7 @@ $ python sample/general.py
 
 A estrutura de diretórios do projeto está definindo **dois** pacotes: *sample* e *test*;
 
-O que define um **pacote** é um diretório que contenha o arquivo **__init__.py** em sua raiz. O restante são os **módulos** do pacote.
+O que define um **pacote** é um diretório que contenha o arquivo **```__init__.py```** em sua raiz. O restante são os **módulos** do pacote.
 
 Por exemplo, para importar o módulo *flow_control_sample* do **sample** é preciso escrever em um arquivo python:
 
